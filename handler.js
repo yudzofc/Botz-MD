@@ -806,13 +806,13 @@ global.dfail = (type, m, conn) => {
   let name = conn.getName(m.sender)
   let msg = {
     rowner: `╭─֍〔 ıll 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 llı 〕֍─
-⬡ Perintah ini hanya untuk DaniOfficial
+⬡ Perintah ini hanya untuk s.id/WahyudiID
 ╰─────────────────֍`,
     owner: `╭─֍〔 ıll 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 llı 〕֍─
-⬡ Perintah ini hanya untuk DaniOfficial
+⬡ Perintah ini hanya untuk s.id/WahyudiID
 ╰─────────────────֍`,
     mods: `╭─֍〔 ıll 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 llı 〕֍─
-⬡ Perintah ini hanya untuk moderator bot
+⬡ Perintah ini hanya untuk s.id/WahyudiID
 ╰─────────────────֍`,
     premium: `╭─֍〔 ıll 𝐏𝐑𝐄𝐌𝐈𝐔𝐌 𝐎𝐍𝐋𝐘 llı 〕֍─
 ⬡ Fitur ini hanya tersedia untuk user *Premium*
@@ -827,7 +827,7 @@ global.dfail = (type, m, conn) => {
 ⬡ Fitur ini hanya tersedia untuk admin grup!!
 ╰─────────────────֍`,
     botAdmin: `╭─֍〔 ıll 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 llı 〕֍─
-⬡ Fitur ini tidak dapat work, DaniBotz tidak menjadi admin
+⬡ Fitur ini tidak dapat work, YudsBotz-Md tidak menjadi admin
 ╰─────────────────֍`,
     restrict: 'Fitur ini di *disable*!',
     }[type]
